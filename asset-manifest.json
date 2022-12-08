@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Empleados/static/css/main.dde47843.css",
+    "main.js": "/Empleados/static/js/main.b3dc29da.js",
+    "static/js/787.2e6830fd.chunk.js": "/Empleados/static/js/787.2e6830fd.chunk.js",
+    "static/media/Empleado-thor.jpg": "/Empleados/static/media/Empleado-thor.2e8d1132c278986a1074.jpg",
+    "static/media/Empleado-iron.jpg": "/Empleados/static/media/Empleado-iron.6536ad298573e22ddaaa.jpg",
+    "index.html": "/Empleados/index.html",
+    "main.dde47843.css.map": "/Empleados/static/css/main.dde47843.css.map",
+    "main.b3dc29da.js.map": "/Empleados/static/js/main.b3dc29da.js.map",
+    "787.2e6830fd.chunk.js.map": "/Empleados/static/js/787.2e6830fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dde47843.css",
+    "static/js/main.b3dc29da.js"
+  ]
+}
